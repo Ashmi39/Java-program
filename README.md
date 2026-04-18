@@ -25,6 +25,9 @@ java lc5 p10 : https://github.com/user-attachments/assets/de97b10e-c640-4ff8-abb
 
 java 2a StringHandlingFunctions : https://github.com/user-attachments/assets/0a170b05-3fcd-4145-a4d3-97d2c6ba7531
 
+java 2b PerformanceTest : https://github.com/user-attachments/assets/efed90f9-9df1-4ce0-90bf-63ae5b72f361
+
+
 
 
 
