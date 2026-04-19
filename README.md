@@ -23,9 +23,12 @@ java 1c4 p9 : https://github.com/user-attachments/assets/7c361a60-1f60-48b2-813e
 
 java lc5 p10 : https://github.com/user-attachments/assets/de97b10e-c640-4ff8-abb8-cbbf48c69260
 
-java 2a StringHandlingFunctions : https://github.com/user-attachments/assets/0a170b05-3fcd-4145-a4d3-97d2c6ba7531
+java 2a StringHandlingDemo : https://github.com/user-attachments/assets/0a170b05-3fcd-4145-a4d3-97d2c6ba7531
 
 java 2b PerformanceTest : https://github.com/user-attachments/assets/efed90f9-9df1-4ce0-90bf-63ae5b72f361
+
+java 3a StringHandlingDemo : https://github.com/user-attachments/assets/8abe277f-6475-4c97-b154-fef1141c1f39
+
 
 
 
