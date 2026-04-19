@@ -29,6 +29,8 @@ java 2b PerformanceTest : https://github.com/user-attachments/assets/efed90f9-9d
 
 java 3a StringHandlingFunctions : https://github.com/user-attachments/assets/8abe277f-6475-4c97-b154-fef1141c1f39
 
+java 3b StringBuildingFunctions : https://github.com/user-attachments/assets/a265fc3d-8dc1-4b13-8f31-088b9c318867
+
 
 
 
