@@ -64,6 +64,19 @@ java 7b : https://github.com/user-attachments/assets/db3614b9-75c6-43fb-9eab-6ea
 https://github.com/user-attachments/assets/57122aba-9a76-469c-a3c0-fbd49d081d73
 https://github.com/user-attachments/assets/c8d6acce-0661-48de-b32f-6129d9ecfc3a
 
+java 8a : https://github.com/user-attachments/assets/ccfe173b-20df-4aca-9f27-8cdf73d3440f
+https://github.com/user-attachments/assets/8d27767f-4bf0-473d-a0a0-d7d4a5401900
+
+java 8b : https://github.com/user-attachments/assets/27c8b3c9-75eb-49ec-93d9-c17bf5ab58ff
+https://github.com/user-attachments/assets/bdd66aa6-040a-4ea7-9d9c-aa397a5d3d8e
+https://github.com/user-attachments/assets/f37dfd4a-bae2-4cc5-8d84-466f30f288c8
+
+
+
+
+
+
+
 
 
 
