@@ -27,7 +27,7 @@ java 2a StringHandlingDemo : https://github.com/user-attachments/assets/0a170b05
 
 java 2b PerformanceTest : https://github.com/user-attachments/assets/efed90f9-9df1-4ce0-90bf-63ae5b72f361
 
-java 3a StringHandlingDemo : https://github.com/user-attachments/assets/8abe277f-6475-4c97-b154-fef1141c1f39
+java 3a StringHandlingFunctions : https://github.com/user-attachments/assets/8abe277f-6475-4c97-b154-fef1141c1f39
 
 
 
