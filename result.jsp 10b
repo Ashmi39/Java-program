@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h2>Student Result</h2>
+
+<p>Roll No: ${roll}</p>
+<p>Name: ${name}</p>
+
+<p>Sub1: ${s1}</p>
+<p>Sub2: ${s2}</p>
+<p>Sub3: ${s3}</p>
+<p>Sub4: ${s4}</p>
+<p>Sub5: ${s5}</p>
+
+<h3>Average: ${avg}</h3>
+<h3>Result: ${result}</h3>
+
+<br>
+<a href="index.jsp">Go Back</a>
+
+</body>
+</html>
