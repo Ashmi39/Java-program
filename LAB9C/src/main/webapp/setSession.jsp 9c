@@ -1,0 +1,23 @@
+<%@ page language="java" %>
+<%
+    String name = request.getParameter("username");
+    int time = Integer.parseInt(request.getParameter("time"));
+
+    // Create session
+    session.setAttribute("user", name);
+
+    // Set session expiry time (convert minutes → seconds)
+    session.setMaxInactiveInterval(time * 60);
+%>
+
+<html>
+<body>
+
+<h2>Hello <%= name %>!</h2>
+
+<p>Session set for <%= time %> minutes.</p>
+
+<a href="checkSession.jsp">Click here to check session</a>
+
+</body>
+</html>
