@@ -1,0 +1,28 @@
+<%@ page import="javax.servlet.http.Cookie" %>
+<html>
+<body>
+
+<%
+    String name = request.getParameter("name");
+    String domain = request.getParameter("domain");
+    int age = Integer.parseInt(request.getParameter("age"));
+
+    // Create cookie
+    Cookie c = new Cookie(name, "SampleValue");
+    c.setDomain(domain);
+    c.setMaxAge(age);
+
+    response.addCookie(c);
+%>
+
+<h2>Cookie Added Successfully!</h2>
+
+<p><b>Name:</b> <%= c.getName() %></p>
+<p><b>Domain:</b> <%= c.getDomain() %></p>
+<p><b>Max Age:</b> <%= c.getMaxAge() %> seconds</p>
+
+<br>
+<a href="viewCookies.jsp">Go to Active Cookie List</a>
+
+</body>
+</html>
