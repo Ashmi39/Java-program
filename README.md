@@ -87,6 +87,35 @@ https://github.com/user-attachments/assets/36df8655-726f-45ac-a758-956bf296967c
 java 10b : https://github.com/user-attachments/assets/ce40fb7b-9290-4a8f-8f12-5a1f038bc7d0
 https://github.com/user-attachments/assets/1aeed42e-2713-4181-9ecb-ea6b000bc4b5
 
+java 11a: https://github.com/user-attachments/assets/07ecc641-c201-4550-915c-98faffa1c78a
+
+java 11b :https://github.com/user-attachments/assets/c4aaa88e-80dd-402a-a651-a09a54ab7c65
+
+java 11c : https://github.com/user-attachments/assets/2fa3fd8d-2a9e-4a36-b0a2-cc84e90b31c2
+https://github.com/user-attachments/assets/bf47dc24-898b-4acd-bded-b142f47f3be0
+
+java 12a : https://github.com/user-attachments/assets/8cb1299a-d98b-4cdb-9d4a-cc7fda1c41c1
+
+java 12b : https://github.com/user-attachments/assets/5c9104fa-15fe-4bcd-8cb7-b08ca6685f92
+
+java 12c : https://github.com/user-attachments/assets/eb0e247e-b694-4917-9af1-2844a3a2c234
+https://github.com/user-attachments/assets/fc597ec5-11ce-47d1-884f-44cfb0fe5922
+
+java 12d : https://github.com/user-attachments/assets/217d3565-97ec-4ab7-b642-ca23b03aab3e
+https://github.com/user-attachments/assets/07069367-e288-4510-9c5f-58e58ee35933
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
